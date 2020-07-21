@@ -3,6 +3,7 @@ import sys
 
 if len(sys.argv) != 3:
 	print(f'Usage: {sys.argv[0]} str1 str2')
+	exit(1)
 
 str1 = bytearray.fromhex(sys.argv[1])
 str2 = bytearray.fromhex(sys.argv[2])
