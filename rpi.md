@@ -83,6 +83,8 @@ sudo ufw deny from 192.168.178.1 to 224.0.0.1
 sudo ufw enable
 sudo ufw status
 ```
+Jenkins on 8080
+`sudo ufw allow from 192.168.42.0/24 to any port 8080`
 
 ## Apache2
 ### Debian, Ubuntu (Apache httpd 2.x):
