@@ -2,7 +2,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'ycm-core/YouCompleteMe'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-let g:UtilsnipsExpandTrigger="<tab>"
+Plug 'vim-airline/vim-airline'
+let g:UtilsnipsExpandTrigger="<return>"
 call plug#end()
 
 
