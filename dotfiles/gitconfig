@@ -1,3 +1,7 @@
+[core]
+	editor = vim
+[init]
+	defaultBranch = master
 [user]
-	email = email = 24207194+Seseikelele@users.noreply.github.com
+	email = 24207194+Seseikelele@users.noreply.github.com
 	name = Seseikelele
