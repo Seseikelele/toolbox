@@ -1,13 +1,3 @@
-call plug#begin('~/.vim/plugged')
-Plug 'ycm-core/YouCompleteMe'
-Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
-Plug 'vim-airline/vim-airline'
-let g:UtilsnipsExpandTrigger="<return>"
-call plug#end()
-
-
-
 "Ddoink
 syntax on
 
