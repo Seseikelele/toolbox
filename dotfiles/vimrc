@@ -1,5 +1,6 @@
 "Ddoink
 syntax on
+set autoindent
 
 "Display line number and offset for the sake of d-number-arrow
 set number

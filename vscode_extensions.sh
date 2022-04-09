@@ -6,4 +6,3 @@ code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
 
 code --install-extension aaron-bond.better-comments
-code --install-extension coenraads.bracket-pair-colorizer-2
