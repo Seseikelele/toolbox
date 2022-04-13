@@ -5,3 +5,5 @@
 [user]
 	email = 24207194+Seseikelele@users.noreply.github.com
 	name = Seseikelele
+[pull]
+	rebase = true
